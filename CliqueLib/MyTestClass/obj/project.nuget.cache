@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/5snElzmupBzLqgJjUVnhzqvX5dwSDpUbXCF2xBuVCKzZ3Z4pXZbhdXb5biC1Qsz7nv6huxcuMCC6QLEvJuAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kate1\\Documents\\GitHub\\thesis2\\CliqueLib\\MyTestClass\\TestConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kate1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

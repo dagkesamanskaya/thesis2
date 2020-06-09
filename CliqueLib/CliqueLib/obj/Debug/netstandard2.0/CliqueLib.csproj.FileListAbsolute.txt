@@ -1,0 +1,17 @@
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.deps.json
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.dll
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.pdb
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.AssemblyInfoInputs.cache
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.AssemblyInfo.cs
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.csproj.CoreCompileInputs.cache
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.dll
+C:\Users\kate1\source\repos\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.pdb
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.deps.json
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.dll
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\bin\Debug\netstandard2.0\CliqueLib.pdb
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.csprojAssemblyReference.cache
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.AssemblyInfoInputs.cache
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.AssemblyInfo.cs
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.csproj.CoreCompileInputs.cache
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.dll
+C:\Users\kate1\Documents\GitHub\thesis2\CliqueLib\CliqueLib\obj\Debug\netstandard2.0\CliqueLib.pdb
