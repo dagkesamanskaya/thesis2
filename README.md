@@ -1,2 +1,2 @@
-# thesis2
+# thesis_lib
  Library of clique algorithms
